@@ -1,0 +1,35 @@
+individual_news_urls:
+  - ''
+
+run_spiders:
+  - 'bbc'
+  - 'ap'
+  - 'reuters' 
+
+site_urls:
+  'bbc':
+    - "https://www.bbc.com/news/business"
+    - "https://www.bbc.com/news/world"
+  'ap':
+    - "https://apnews.com/hub/business"
+  'reuters':
+    - "https://www.reuters.com/world/africa/"
+    - "https://www.reuters.com/world/americas/"
+    - "https://www.reuters.com/world/asia-pacific/"
+    - "https://www.reuters.com/world/china/"
+    - "https://www.reuters.com/world/europe/"
+    - "https://www.reuters.com/world/india/"
+    - "https://www.reuters.com/world/middle-east/"
+    - "https://www.reuters.com/world/uk/"
+    - "https://www.reuters.com/world/us/"
+    - "https://www.reuters.com/world/reuters-next/"
+    - "https://www.reuters.com/legal/"
+    - "https://www.reuters.com/business/finance/"
+    - "https://www.reuters.com/business/aerospace-defense/"
+    - "https://www.reuters.com/business/energy/"
+    - "https://www.reuters.com/business/environmentv/"
+    - "https://www.reuters.com/business/healthcare-pharmaceuticals/"
+    - "https://www.reuters.com/business/aerospace-defense/"
+    - "https://www.reuters.com/business/media-telecom/"
+    - "https://www.reuters.com/business/retail-consumer/"
+    - "https://www.reuters.com/business/sustainable-business/"
